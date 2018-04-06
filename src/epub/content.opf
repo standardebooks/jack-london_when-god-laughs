@@ -46,7 +46,7 @@
 		<dc:description id="description">The eleventh collection of short stories by author Jack London.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			Released in 1911, &lt;i&gt;When God Laughs, and Other Stories&lt;/i&gt; is the eleventh collection of short stories by Jack London. In contrast with most of his other work that had been released at the time, &lt;i&gt;When God Laughs&lt;/i&gt; is set in Polynesia. The book consists of twelve short stories that range from humorous to shocking.
+			&lt;p&gt;Released in 1911, &lt;i&gt;When God Laughs, and Other Stories&lt;/i&gt; is the eleventh collection of short stories by Jack London. In contrast with most of his other work that had been released at the time, &lt;i&gt;When God Laughs&lt;/i&gt; is set in Polynesia. The book consists of twelve short stories that range from humorous to shocking.
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
@@ -63,7 +63,6 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Winslow Homer</dc:contributor>
 		<meta property="file-as" refines="#artist">Homer, Winslow</meta>
-		<meta property="se:name.person.full-name" refines="#artist">Winslow Homer</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Winslow_Homer</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79023170</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
@@ -87,6 +86,7 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/a-curious-fragment.xhtml" id="a-curious-fragment.xhtml" media-type="application/xhtml+xml"/>
