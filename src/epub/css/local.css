@@ -16,18 +16,10 @@ section > header{
 	display: inline-block;
 }
 
-[epub|type~="epigraph"] i{
-	font-style: normal;
-}
-
 [epub|type~="epigraph"] cite{
 	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
-}
-
-[epub|type~="epigraph"] cite i{
-	font-style: italic;
 }
 
 /* poetry styling */
