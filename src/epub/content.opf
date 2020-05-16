@@ -47,7 +47,7 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">The eleventh collection of short stories by Jack London.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Released in 1911, &lt;i&gt;When God Laughs, and Other Stories&lt;/i&gt; is the eleventh collection of short stories by Jack London. In contrast with most of his other work that had been released at the time, &lt;i&gt;When God Laughs&lt;/i&gt; is set in Polynesia. The book consists of twelve short stories that range from humorous to shocking.&lt;/p&gt;
+			&lt;p&gt;Released in 1911, &lt;i&gt;When God Laughs, and Other Stories&lt;/i&gt; is the eleventh collection of short stories by &lt;a href="https://standardebooks.org/ebooks/jack-london"&gt;Jack London&lt;/a&gt;. In contrast with most of his other work that had been released at the time, &lt;i&gt;When God Laughs&lt;/i&gt; is set in Polynesia. The book consists of twelve short stories that range from humorous to shocking.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2545</dc:source>
