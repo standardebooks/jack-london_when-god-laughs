@@ -52,8 +52,3 @@ article > header [epub|type~="epigraph"]{
 [epub|type~="z3998:poem"] + p{
 	text-indent: 0;
 }
-
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
