@@ -48,7 +48,3 @@ article > header [epub|type~="epigraph"]{
 [epub|type~="z3998:poem"] p + p{
 	margin-top: 1em;
 }
-
-[epub|type~="z3998:poem"] + p{
-	text-indent: 0;
-}
