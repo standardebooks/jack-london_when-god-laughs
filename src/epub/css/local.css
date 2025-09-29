@@ -1,6 +1,14 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+#make-westing blockquote{
+	font-style: italic;
+}
+
+#make-westing blockquote span{
+	font-style: normal;
+}
+
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
