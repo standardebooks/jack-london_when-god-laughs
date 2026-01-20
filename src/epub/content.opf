@@ -53,7 +53,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2545</dc:source>
 		<dc:source>https://books.google.com/books?id=V_JDAQAAMAAJ</dc:source>
-		<meta property="se:word-count">52207</meta>
+		<meta property="se:word-count">51348</meta>
 		<meta property="se:reading-ease.flesch">83.15</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jack-london_when-god-laughs</meta>
 		<dc:creator id="author">Jack London</dc:creator>
