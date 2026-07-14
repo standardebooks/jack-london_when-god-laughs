@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">When God Laughs, and Other Stories</dc:title>
 		<meta property="file-as" refines="#fulltitle">When God Laughs</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Short stories</dc:subject>
 		<dc:subject id="subject-2">American fiction -- 20th century</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
